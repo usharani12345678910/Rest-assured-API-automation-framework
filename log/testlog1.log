@@ -1,0 +1,8 @@
+2023-10-29 16:21:48,945 [main] INFO RestAssuredAutomationFramework_test - Create User executed.
+2023-10-29 16:21:50,856 [main] INFO RestAssuredAutomationFramework_test - Get User Data executed.
+2023-10-29 16:21:53,155 [main] INFO RestAssuredAutomationFramework_test - Update User executed.
+2023-10-29 16:21:54,333 [main] INFO RestAssuredAutomationFramework_test - Delete User executed.
+2023-10-29 16:38:05,290 [main] INFO RestAssuredAutomationFramework_test - Create User executed.
+2023-10-29 16:38:06,445 [main] INFO RestAssuredAutomationFramework_test - Get User Data executed.
+2023-10-29 16:38:08,650 [main] INFO RestAssuredAutomationFramework_test - Update User executed.
+2023-10-29 16:38:09,780 [main] INFO RestAssuredAutomationFramework_test - Delete User executed.
